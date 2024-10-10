@@ -2,7 +2,7 @@
 package dog
 
 // Returns the converted value when converting human years to dog years
-func convertToDog(i int) int {
+func ConvertToDog(i int) int {
 	v := i * 7
 	return v
 }
